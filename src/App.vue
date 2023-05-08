@@ -23,11 +23,10 @@
           Installed packages include:
           <div>
             <ul className="pl-2 font-normal list-disc list-inside">
-              <li>React</li>
+              <li>Vue</li>
               <li>Typescript</li>
               <li>Tailwind</li>
               <li>Axios</li>
-              <li>React Router</li>
             </ul>
           </div>
         </div>
